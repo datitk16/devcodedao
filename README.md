@@ -4,5 +4,5 @@ My name's Dat.I’m a front-end developer with experience in Web development whi
 in Modern Front-End Web Development and Mobile App Development. I also have experience with
 good knowledge of JavaScript ecosystem, FE Architecture (Angular).
 ###
-<a href="https://codedao.tech.blog/">My blog</a>
+Apart from coding, I also maintain a blog - you can find  <a href="https://codedao.tech.blog/">Datblog</a>
 ###
